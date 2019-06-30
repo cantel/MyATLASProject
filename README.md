@@ -37,4 +37,8 @@ A list of dataset names:
 This is a quick reference of all the variables you can look at in your root data files:
 <http://opendata.atlas.cern/books/current/openatlasdatatools/_book/variable_names.html>
 
+## Random information (in case you were wondering)
 
+Particle energies, momenta and - due to [mass-energy equivalence](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence), or more familiarly, E = mc^2 - particle masses are measured in units of _electronvolts_ or eV. 1 eV = 1.602176634×10^{−19} joules. 1 keV = 1000 eV, 1 MeV = 1 000 000 eV, 1 GeV = 1 000 000 000 eV.
+The Higgs boson has a mass of 125 GeV/c^2, or 125 GeV in the system of natural units commonly used in particle physics, where c is set to 1.
+The Z boson has a mass of 91 GeV. The W boson has a mass of 80 GeV.
