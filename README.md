@@ -11,9 +11,9 @@ http://opendata.atlas.cern/visualisations/analyser-js.php
 
 ## Helpful links
 
-### How is this defined?
+### What is this, how is that defined?
 
-Looking to learn about particle definitions, detector layout and the general workings of ATLAS and the LHC, take a look here
+Looking to learn about particle definitions, the ATLAS detector layout and the general workings of ATLAS and the LHC? Take a look here:
 http://opendata.atlas.cern/books/current/get-started/_book/
 
 ### What datasets can I explore?
