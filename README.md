@@ -24,7 +24,7 @@ Looking to learn about particle definitions, the ATLAS detector layout and the g
 ### What datasets can I explore?
 
 A list of dataset names:
-{http://opendata.atlas.cern/extendedanalysis/datasets.php}
+<http://opendata.atlas.cern/extendedanalysis/datasets.php>
 
 ### What is in my root file?
 
