@@ -1,6 +1,11 @@
 # MyATLASProject
 An ATLAS tutorial using CERN ATLAS open data.
 
+## Quick tips on using ROOT notebooks
+
+* to execute a cell of code, select the cell and press <shift>+<enter>
+* wait for the [*] to disappear once you've executed code. The * indicates that the code is still busy.
+
 ## Cut-based analysis exercise 
 
 No need for any scripts in the git repository. Just follow the link. 
