@@ -1,5 +1,10 @@
 # MyATLASProject
 An ATLAS tutorial using CERN ATLAS open data.
+Presently, the tutorial is divided into 4 levels:
+* Level 1: We learn how to read in a dataset and fill a histogram.
+* Level 2: We learn how to apply basic event selections.
+* Level 3: We learn to compare two datasets, "signal" and "background", by overlaying the resulting histograms on one plot.
+* Level 4 is a challenge: Figure out how to calculate the mass of the parent particle based on the decay particles reconstructed in the ATLAS detector using the variables available in the datasets. You have succeeded once the mass histogram for the signal dataset forms a peak around 91000 MeV.
 
 ## Quick tips on using ROOT notebooks
 
@@ -8,6 +13,7 @@ An ATLAS tutorial using CERN ATLAS open data.
 
 ## Cut-based analysis exercise 
 
+Ideally done once all levels have been mastered.
 No need for any scripts in the git repository. Just follow the link. 
 
 Lets get a feeling for applying _cuts_ on your data!
